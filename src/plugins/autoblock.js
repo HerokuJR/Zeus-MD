@@ -30,3 +30,4 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
 };
 
 export default autoblockCommand;
+
