@@ -48,6 +48,13 @@
 <a href='https://https-x-bot-md-qr-2.onrender.com' target="_blank">
     <img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/>
 </a>
+**Server 3**
+Get Session ID via Pair Code
+
+ Get your `creds.json` and upload ton `session folder`
+ 
+<a href='https://pair-site-team-inc-pair.onrender.com/pair' target="_blank"><img alt='Get Creds.json' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+
 
 #### DEPLOY ON RENDER
 
